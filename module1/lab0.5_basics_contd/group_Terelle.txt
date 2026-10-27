@@ -1,0 +1,3 @@
+Spotter = Richie Bias
+Teammates = Richie Bias, Dr. T Hasan Johnson, Ben Tucker
+Days + Times when your team meets = Wed & Fri, 7:00–8:30 PM ET (tentative)
